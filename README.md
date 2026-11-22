@@ -1,3 +1,5 @@
+#ACTIVITY 7: Building a Persistent Notes or To-Do App
+
 # Persistent Notes App
 
 A React Native (Expo) notes app that saves data on the device,
